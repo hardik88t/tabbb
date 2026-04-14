@@ -6,6 +6,8 @@ tabbb replaces your Chrome new tab page with a dashboard that shows everything y
 
 Built for people who open too many tabs and never close them.
 
+Based on [tab-out](https://github.com/zarazhangrui/tab-out) By [zara](https://x.com/zarazhangrui). Thanks Zara!
+
 ---
 
 ## Features
